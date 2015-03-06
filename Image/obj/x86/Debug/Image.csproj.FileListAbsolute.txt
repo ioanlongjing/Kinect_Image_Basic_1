@@ -1,0 +1,11 @@
+D:\Kinect\Image\Image\bin\Debug\Image.exe
+D:\Kinect\Image\Image\bin\Debug\Image.pdb
+D:\Kinect\Image\Image\obj\x86\Debug\MainWindow.baml
+D:\Kinect\Image\Image\obj\x86\Debug\MainWindow.g.cs
+D:\Kinect\Image\Image\obj\x86\Debug\App.g.cs
+D:\Kinect\Image\Image\obj\x86\Debug\Image_MarkupCompile.cache
+D:\Kinect\Image\Image\obj\x86\Debug\Image.g.resources
+D:\Kinect\Image\Image\obj\x86\Debug\Image.Properties.Resources.resources
+D:\Kinect\Image\Image\obj\x86\Debug\Image.csproj.GenerateResource.Cache
+D:\Kinect\Image\Image\obj\x86\Debug\Image.exe
+D:\Kinect\Image\Image\obj\x86\Debug\Image.pdb
